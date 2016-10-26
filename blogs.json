@@ -1,0 +1,24 @@
+{
+  "blogs" : [ {
+    "author" : "J'ena SanCartier",
+    "body" : "Scientists have bandied about a number of explanations for the hexagon's origin. For instance, water swirling inside a bucket can generate whirlpools possessing holes with geometric shapes. However, there is of course no giant bucket on Saturn holding this gargantuan hexagon.",
+    "date" : "October 25, 2016",
+    "image" : "http://www.jpl.nasa.gov/images/cassini/20131204/pia17652-640.gif",
+    "subtitle" : "The planet's most enigmatic feature",
+    "title" : "Saturn's Hexagon"
+  }, {
+    "author" : "Ethan Law",
+    "body" : "If you use Einstein's theories to determine what occurs at the bottom of a black hole, you'll calculate a spot that is infinitely dense and infinitely small: a hypothetical concept called a singularity. But infinities aren't typically found in nature. The disconnect lies with Einstein's theories, which provide wonderful calculations for most of the cosmos, but tend to break down in the face of enormous forces, such as those inside a black hole—or present at the birth of our universe.",
+    "date" : "October 26, 2016",
+    "image" : "http://news.nationalgeographic.com/content/dam/news/photos/000/766/76666.adapt.590.1.jpg",
+    "subtitle" : "Probaby not, but probably.",
+    "title" : "Are we inside a black hole?"
+  }, {
+    "author" : "Nico Samoa",
+    "body" : "Space sounds like birds and smells like meat. If there are birds in space, I want to go to space. I love chasing birds, and looking at them through the window. If I was a space cat, I would definitely chase space birds.",
+    "date" : "October 26, 2016",
+    "image" : "http://i0.wp.com/ultraculture.org/wp-content/uploads/2014/01/bird-space.jpg?w=620",
+    "subtitle" : "A discovery that could change our cat lives forever.",
+    "title" : "Birds in space?"
+  } ]
+}

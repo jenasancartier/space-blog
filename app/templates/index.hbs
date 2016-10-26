@@ -1,1 +1,6 @@
-{{outlet}}
+<ul>
+  {{#each model as |blog|}}
+     <li>{{blog.title}} by {{blog.author}}</li>
+     <img src="{{blog.image}}">
+  {{/each}}
+</ul>
