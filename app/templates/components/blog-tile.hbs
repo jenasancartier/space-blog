@@ -2,4 +2,7 @@
      <li>{{blog.title}} by {{blog.author}}</li>
      <img src="{{blog.image}}">
      <br>
+
+     {{update-blog blog=blog update="update"}}
+
      <button {{action 'delete' blog}}>Delete Blog</button>
