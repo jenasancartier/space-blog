@@ -1,0 +1,52 @@
+h1 {
+  margin-top: 30px;
+  margin-left: 30px;
+  font-size: 5rem;
+  float: left;
+}
+
+button {
+  margin: 8px;
+}
+
+#page-body {
+  clear: both;
+  position: relative;
+  top: 120px;
+}
+
+#navbar {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 120px;
+  width: 100%;
+}
+
+.nav-link {
+  text-align: right;
+  float: right;
+  margin: 10px;
+  margin-top: 50px;
+  font-size: 2rem;
+}
+
+.blog-tile {
+  margin-top: 30px;
+}
+
+.blog-tile > li {
+  font-size: 3rem;
+  list-style-type: none;
+  margin-bottom: 15px;
+}
+
+.blog-tile > p {
+  margin-top: 20px;
+  font-size: 1.2em;
+  width: 700px;
+}
+
+.blog-image {
+  width: 700px;
+}

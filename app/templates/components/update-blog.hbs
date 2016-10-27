@@ -32,9 +32,9 @@
         {{input value=image id="image" placeholder=blog.image}}
       </div>
 
-      <button {{action 'update' blog}}>Save</button>
+      <button class="btn btn-success"{{action 'update' blog}}>Save</button>
     </form>
   </div>
 {{else}}
-  <button {{action 'updateBlogForm'}}>Update</button>
+  <button class="btn btn-primary"{{action 'updateBlogForm'}}>Update</button>
 {{/if}}

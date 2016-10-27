@@ -1,0 +1,7 @@
+<div class="blog-tile">
+ <li><strong>{{blog.title}}</strong> <br> <small>by</small> {{blog.author}}</li>
+ <img class="blog-image" src="{{blog.image}}">
+ <p>{{blog.body}}</p>
+ <br>
+ <button class="btn btn-danger"{{action 'delete' blog}}>Delete Blog</button>
+</div>

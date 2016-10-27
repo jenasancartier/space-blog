@@ -1,8 +1,6 @@
-
-     <li>{{blog.title}} by {{blog.author}}</li>
-     <img src="{{blog.image}}">
-     <br>
-
-     {{update-blog blog=blog update="update"}}
-
-     <button {{action 'delete' blog}}>Delete Blog</button>
+<div class="blog-tile">
+  {{#link-to 'blog' blog.id}}
+    <li>{{blog.title}} by {{blog.author}}</li>
+    <img class="blog-image" src={{blog.image}}>
+ {{/link-to}}
+</div>
