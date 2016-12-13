@@ -1,7 +1,6 @@
 # Space-blog
 
-This README outlines the details of collaborating on this Ember application.
-A short introduction of this app could easily go here.
+An Ember application that uses firebase to store blogs and blog content about space.
 
 ## Prerequisites
 
